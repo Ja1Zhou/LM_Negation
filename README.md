@@ -1,4 +1,4 @@
-Code, data and run logs for the ICML 2026 paper *How Language Models Process Negation*.
+Code, data and run logs for the ICML 2026 paper [*How Language Models Process Negation*](https://openreview.net/forum?id=8DLW34pkNi).
 
 ## Layout
 
