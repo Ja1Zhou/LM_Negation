@@ -1,0 +1,12 @@
+LM_Negation
+Copyright 2026 Zhejian Zhou
+
+This product includes software developed for the paper
+"How Language Models Process Negation" (ICML 2026).
+
+If you use this code or the dataset in academic work, please cite:
+  Zhejian Zhou, Tianyi Zhou, Robin Jia, Jonathan May.
+  How Language Models Process Negation. ICML 2026.
+
+The dataset under data/ is licensed separately under CC BY 4.0
+(see data/LICENSE).

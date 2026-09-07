@@ -1,0 +1,12 @@
+diff --git a/transformer_lens/loading_from_pretrained.py b/transformer_lens/loading_from_pretrained.py
+index 37e4ce5c..3c6b9660 100644
+--- a/transformer_lens/loading_from_pretrained.py
++++ b/transformer_lens/loading_from_pretrained.py
+@@ -242,6 +242,7 @@ OFFICIAL_MODEL_NAMES = [
+     "Qwen/Qwen3-1.7B",
+     "Qwen/Qwen3-4B",
+     "Qwen/Qwen3-8B",
++    "Qwen/Qwen3-8B-Base", # this supports the Qwen3-8B-Base model
+     "Qwen/Qwen3-14B",
+     "microsoft/phi-1",
+     "microsoft/phi-1_5",

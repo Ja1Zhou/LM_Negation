@@ -1,0 +1,20 @@
+The dataset in this directory (prompts-cleaned-release.json and
+prompts-cleaned-multi-release.json) is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt it for any purpose, including commercially,
+provided you give appropriate credit, link to the license, and indicate if
+changes were made. Full legal text:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested attribution:
+  Zhejian Zhou, Tianyi Zhou, Robin Jia, Jonathan May. "How Language Models
+  Process Negation" (ICML 2026), negation prompt dataset, CC BY 4.0.
+
+Provenance: the concept pairs were curated by the authors and expanded with
+OpenAI gpt-4; the multiple gold answers per prompt were generated with OpenAI
+gpt-4o (see the paper's appendix on dataset curation). Use of model-generated
+content may additionally be subject to the generating provider's terms.
+
+The code in the rest of this repository is licensed separately under the
+Apache License 2.0 (see ../LICENSE).

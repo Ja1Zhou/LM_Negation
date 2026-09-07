@@ -1,0 +1,10 @@
+/hf_ds_cache/
+__pycache__/
+/clean_env/
+/vendor/
+/prompt.md
+/.env
+/logs/
+/figs/
+/outputs_release/
+/figs_paper_check/

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the paper below."
+title: "LM_Negation: code and data for How Language Models Process Negation"
+authors:
+  - family-names: Zhou
+    given-names: Zhejian
+  - family-names: Zhou
+    given-names: Tianyi
+  - family-names: Jia
+    given-names: Robin
+  - family-names: May
+    given-names: Jonathan
+year: 2026
+license: Apache-2.0
+repository-code: "https://github.com/Ja1Zhou/LM_Negation"
+preferred-citation:
+  type: conference-paper
+  title: "How Language Models Process Negation"
+  authors:
+    - family-names: Zhou
+      given-names: Zhejian
+    - family-names: Zhou
+      given-names: Tianyi
+    - family-names: Jia
+      given-names: Robin
+    - family-names: May
+      given-names: Jonathan
+  collection-title: "Forty-third International Conference on Machine Learning"
+  year: 2026
